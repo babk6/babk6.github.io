@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+- title: "People"
+  url: /people/
 
   - title: "ERC SENECA"
     url: /SERC_SENECA/
