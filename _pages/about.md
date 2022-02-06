@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Benjamin ABECASSIS"
+excerpt: "I am a physical-chemist (CNRS research director) "
 author_profile: true
 redirect_from:
   - /about/
